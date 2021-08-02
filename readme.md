@@ -24,8 +24,9 @@
 - [ ] grid-gap
 - [ ] grid-template-areas
 - [ ] grid-template
-- [ ] justify-items
-- [ ] align-items
+- [ ] justify-items - need contents or width/height
+- [ ] align-items - need contents or width/height
+- [ ] place-items => align-items(세로)  justify-items(가로)
 - [ ] justify-content
 - [ ] align-content
 - [ ] grid-auto-columns
