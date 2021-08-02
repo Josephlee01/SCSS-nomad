@@ -30,9 +30,12 @@
 - [x] justify-content
 - [x] align-content
 - [x] place-content: align-content(세로) justify-content(가로)
-- [ ] grid-auto-columns
+- [x] justify-self
+- [x] align-self
+- [x] place-self: align-self(세로) justify-self(가로)
 - [ ] grid-auto-rows
 - [ ] grid-auto-flow
+- [ ] grid-auto-columns
 - [ ] grid-column-start
 - [ ] grid-column-end
 - [ ] grid-row-start

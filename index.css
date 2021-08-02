@@ -7,23 +7,17 @@
 
 .grid {
   background: lightblue;
+  color:chocolate;
   display: grid;
   gap: 5px;
-  height: 50vh;
   grid-template-columns: repeat(4, 100px);
-  grid-template-rows: repeat(2, 100px);
-  place-content: end space-around;
+  grid-template-rows: repeat(4, 100px);
+  grid-auto-flow: column;
 }
 
-.header {
+.item:nth-child(odd) {
   background-color: #f6e58d;
 }
-.content {
+.item:nth-child(even) {
   background-color: #badc58;
-}
-.nav {
-  background-color: #ff7979;
-}
-.footer {
-  background-color: #95afc0;
 }
