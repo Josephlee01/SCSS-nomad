@@ -6,12 +6,13 @@
 }
 
 .grid {
+  background: lightblue;
   display: grid;
   gap: 5px;
   height: 50vh;
-  grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(4, 1fr);
-  place-items: stretch center
+  grid-template-columns: repeat(4, 100px);
+  grid-template-rows: repeat(2, 100px);
+  place-content: end space-around;
 }
 
 .header {

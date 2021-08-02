@@ -17,18 +17,19 @@
 
 ## Grid:
 
-- [ ] grid-template-columns
-- [ ] grid-template-rows
-- [ ] grid-column-gap
-- [ ] grid-row-gap
-- [ ] grid-gap
-- [ ] grid-template-areas
-- [ ] grid-template
-- [ ] justify-items - need contents or width/height
-- [ ] align-items - need contents or width/height
-- [ ] place-items => align-items(세로)  justify-items(가로)
-- [ ] justify-content
-- [ ] align-content
+- [x] grid-template-columns
+- [x] grid-template-rows
+- [x] grid-column-gap
+- [x] grid-row-gap
+- [x] grid-gap
+- [x] grid-template-areas
+- [x] grid-template
+- [x] justify-items - need contents or width/height
+- [x] align-items - need contents or width/height
+- [x] place-items: align-items(세로) justify-items(가로)
+- [x] justify-content
+- [x] align-content
+- [x] place-content: align-content(세로) justify-content(가로)
 - [ ] grid-auto-columns
 - [ ] grid-auto-rows
 - [ ] grid-auto-flow
