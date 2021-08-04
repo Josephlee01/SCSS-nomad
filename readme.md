@@ -19,40 +19,39 @@
 
 - [x] grid-template-columns
 - [x] grid-template-rows
-- [x] grid-column-gap
-- [x] grid-row-gap
-- [x] grid-gap
+- [x] column-gap
+- [x] row-gap
+- [x] gap
 - [x] grid-template-areas
-- [x] grid-template
-- [x] justify-items - need contents or width/height
-- [x] align-items - need contents or width/height
-- [x] place-items: align-items(세로) justify-items(가로)
-- [x] justify-content
-- [x] align-content
-- [x] place-content: align-content(세로) justify-content(가로)
-- [x] justify-self
-- [x] align-self
-- [x] place-self: align-self(세로) justify-self(가로)
-- [x] grid-auto-rows
-- [x] grid-auto-flow
-- [x] grid-auto-columns
 - [x] grid-column-start
 - [x] grid-column-end
 - [x] grid-row-start
 - [x] grid-row-end
 - [x] grid-column
 - [x] grid-row
+- [x] grid-template
+- [x] justify-items
+- [x] align-items
+- [x] place-items
+- [x] justify-content
+- [x] align-content
+- [x] place-content
 - [x] justify-self
 - [x] align-self
+- [x] place-self
+- [x] grid-auto-rows
+- [x] grid-auto-flow
+- [x] grid-auto-columns
 
 ### Keywords & Functions:
 
 - [x] repeat
-- [x] min-content
-- [x] max-content  
+- [x] fr
 - [x] minmax
 - [x] auto-fit
 - [x] auto-fill
+- [x] min-content
+- [x] max-content
 
 ## SCSS:
 
@@ -61,7 +60,7 @@
 - [ ] Partials
 - [ ] Mixins
 - [ ] Extend
-- [ ] Responsive
+- [ ] Responsive Mixins
 
 ## To Clone:
 
